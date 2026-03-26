@@ -1,0 +1,6 @@
+- extend story
+- puzzle level at 3A
+- improve ui
+- add more splash
+
+
